@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("https://i.pinimg.com/originals/49/a4/7f/49a47f4aa2bad945b9d4905dec88b69c.jpg") no-repeat;
+    background: url("../Images/backgroundMM.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
